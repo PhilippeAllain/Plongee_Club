@@ -1,0 +1,50 @@
+/*Page accueil*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.973);
+    margin: 0px;
+    background-image: url(../img/sea-1284467_640.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+header {
+    background-color: rgba(42, 42, 245, 0.1);
+    height: auto;
+    border-bottom: 4px solid darkblue;
+    color: rgb(2, 2, 141);
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5em;
+    width: 425px;
+}
+
+footer {
+    background-color: rgba(42, 42, 245, 0.1);
+    border-top: 4px solid darkblue;
+}
+
+.logo {
+    height: 75px;
+    width: auto;
+}
+
+main {
+    background-color: rgba(42, 42, 245, 0.1);
+}
+
+a {
+    color: rgb(129, 3, 3);
+    display: inline;
+}
+/*
+em.bi-arrow-right-circle {
+    color: rgb(42, 42, 42);
+    font-size: 20px;
+}
+*/
